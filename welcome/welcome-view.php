@@ -7,7 +7,7 @@
  * @package QUBA_ENGINE
  */
 
-if (! defined('WPINC')) {
+if (! defined('WPINC')) {logo
     die;
 }
 
@@ -101,14 +101,14 @@ if (! defined('WPINC')) {
             <div class="col">
                 <picture>
                     <source type="image/webp" srcset="https://s.w.org/images/core/5.0/devs/Protect1x.webp 1x, https://s.w.org/images/core/5.0/devs/Protect.webp 2x">
-                    <img src="https://s.w.org/images/core/5.0/devs/Protect1x.jpg" srcset="https://s.w.org/images/core/5.0/devs/Protect1x.jpg 1x, https://s.w.org/images/core/5.0/devs/Protect.jpg 2x" alt="">
+                    <img src="img/intro.png" srcset="https://s.w.org/images/core/5.0/devs/Protect1x.jpg 1x, https://s.w.org/images/core/5.0/devs/Protect.jpg 2x" alt="">
                 </picture>
                 <h3 class="cta"><?php printf(__('Intro Section', 'quba-engine')); ?></h3>
             </div>
             <div class="col">
                 <picture>
                     <source type="image/webp" srcset="https://s.w.org/images/core/5.0/devs/Compose1x.webp 1x, https://s.w.org/images/core/5.0/devs/Compose.webp 2x">
-                    <img src="https://s.w.org/images/core/5.0/devs/Compose1x.jpg" srcset="https://s.w.org/images/core/5.0/devs/Compose1x.jpg 1x, https://s.w.org/images/core/5.0/devs/Compose.jpg 2x" alt="">
+                    <img src="img/about.png" srcset="https://s.w.org/images/core/5.0/devs/Compose1x.jpg 1x, https://s.w.org/images/core/5.0/devs/Compose.jpg 2x" alt="">
                 </picture>
                 <h3 class="cta"><?php printf(__('About Section', 'quba-engine'));?> </h3>
 
@@ -116,7 +116,7 @@ if (! defined('WPINC')) {
             <div class="col">
                 <picture>
                     <source type="image/webp" srcset="https://s.w.org/images/core/5.0/devs/Create1x.webp 1x, https://s.w.org/images/core/5.0/devs/Create.webp 2x">
-                    <img src="https://s.w.org/images/core/5.0/devs/Create1x.jpg" srcset="https://s.w.org/images/core/5.0/devs/Create1x.jpg 1x, https://s.w.org/images/core/5.0/devs/Create.jpg 2x" alt="">
+                    <img src="img/services.png" srcset="https://s.w.org/images/core/5.0/devs/Create1x.jpg 1x, https://s.w.org/images/core/5.0/devs/Create.jpg 2x" alt="">
                 </picture>
                 <h3 class="cta"><?php printf(__('Service Section', 'quba-engine')); ?></h3>
 
@@ -124,14 +124,14 @@ if (! defined('WPINC')) {
             <div class="col">
                 <picture>
                     <source type="image/webp" srcset="https://s.w.org/images/core/5.0/devs/Create1x.webp 1x, https://s.w.org/images/core/5.0/devs/Create.webp 2x">
-                    <img src="https://s.w.org/images/core/5.0/devs/Create1x.jpg" srcset="https://s.w.org/images/core/5.0/devs/Create1x.jpg 1x, https://s.w.org/images/core/5.0/devs/Create.jpg 2x" alt="">
+                    <img src="img/portfolio.png" srcset="https://s.w.org/images/core/5.0/devs/Create1x.jpg 1x, https://s.w.org/images/core/5.0/devs/Create.jpg 2x" alt="">
                 </picture>
                 <h3 class="cta"><?php printf(__('Portfolio Section', 'quba-engine')); ?></h3>
             </div>
             <div class="col">
                 <picture>
                     <source type="image/webp" srcset="https://s.w.org/images/core/5.0/devs/Create1x.webp 1x, https://s.w.org/images/core/5.0/devs/Create.webp 2x">
-                    <img src="https://s.w.org/images/core/5.0/devs/Create1x.jpg" srcset="https://s.w.org/images/core/5.0/devs/Create1x.jpg 1x, https://s.w.org/images/core/5.0/devs/Create.jpg 2x" alt="">
+                    <img src="img/" srcset="https://s.w.org/images/core/5.0/devs/Create1x.jpg 1x, https://s.w.org/images/core/5.0/devs/Create.jpg 2x" alt="">
                 </picture>
                 <h3 class="cta"><?php printf(__('Contact Section', 'quba-engine')); ?></h3>
 
