@@ -7,7 +7,7 @@
  * @package QUBA_ENGINE
  */
 
-if (! defined('WPINC')) {logo
+if (! defined('WPINC')) {
     die;
 }
 
